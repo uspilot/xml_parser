@@ -1,0 +1,18 @@
+{
+  "name": "uspilot/xml_parser",
+  "description": "XML parser",
+  "minimum-stability": "dev",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "US Pilot"
+    }
+  ],
+  "require": {
+  },
+  "autoload": {
+    "psr-4": {
+      "USPilot\\": "/"
+    }
+  }
+}
